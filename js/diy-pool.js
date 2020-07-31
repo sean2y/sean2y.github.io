@@ -1,8 +1,3 @@
-// 去掉 Banner 图
-var full_page = document.getElementsByClassName("full_page");
-if (full_page.length != 0) {
-  full_page[0].style.background = "transparent";
-}
 
 // 手机侧边栏默认不显示
 var mobile_sidebar_menus = document.getElementById("mobile-sidebar-menus");
