@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://seanway.cn/tags/index.html</loc>
+    
+    <lastmod>2020-07-31T09:55:58.413Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://seanway.cn/categories/index.html</loc>
+    
+    <lastmod>2020-07-31T09:55:37.590Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://seanway.cn/photos/index.html</loc>
+    
+    <lastmod>2020-07-31T09:53:00.261Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://seanway.cn/movies/index.html</loc>
+    
+    <lastmod>2020-07-31T09:52:33.513Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://seanway.cn/music/index.html</loc>
+    
+    <lastmod>2020-07-31T09:52:03.459Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://seanway.cn/messageboard/index.html</loc>
+    
+    <lastmod>2020-07-31T09:51:37.494Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://seanway.cn/uncategorized/hello-world.html</loc>
     
     <lastmod>2020-07-30T09:36:53.578Z</lastmod>
