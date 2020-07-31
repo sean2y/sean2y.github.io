@@ -5,12 +5,12 @@
   <subtitle>Young</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://seanway.cn/"/>
   <updated>2020-07-30T09:36:53.578Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://seanway.cn/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Sean Young</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/uncategorized/hello-world.html"/>
-    <id>http://yoursite.com/uncategorized/hello-world.html</id>
+    <link href="http://seanway.cn/uncategorized/hello-world.html"/>
+    <id>http://seanway.cn/uncategorized/hello-world.html</id>
     <published>2020-07-30T09:36:53.578Z</published>
     <updated>2020-07-30T09:36:53.578Z</updated>
     
