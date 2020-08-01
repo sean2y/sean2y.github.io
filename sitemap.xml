@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://seanway.cn/music/index.html</loc>
+    
+    <lastmod>2020-08-01T06:26:30.859Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://seanway.cn/about/index.html</loc>
     
     <lastmod>2020-07-31T15:14:03.303Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>http://seanway.cn/movies/index.html</loc>
     
     <lastmod>2020-07-31T09:52:33.513Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://seanway.cn/music/index.html</loc>
-    
-    <lastmod>2020-07-31T09:52:03.459Z</lastmod>
     
   </url>
   
